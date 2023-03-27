@@ -1,6 +1,6 @@
 "use strict";
 console.log("hello");
-var thing = "This is a thing";
+const thing = "This is a thing";
 function doSomething(input) {
     console.log("I'm doing a thing with " + input);
 }
